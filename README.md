@@ -18,7 +18,7 @@
  * Breast cancer [SUM149](https://www.ncbi.nlm.nih.gov/pubmed/17157791) cell line. 
  * Preprocessing of single cells in [Fluidigm Polaris platform](https://www.fluidigm.com/products/polaris).
  * Sequencing on [Illumina HiSeq 2500](https://www.illumina.com/systems/sequencing-platforms/hiseq-2500.html).
- * Analysis using [R](https://www.r-project.org)
+ * Analysis using [R](https://www.r-project.org).
    
 <br></br>
 ## Code structure
